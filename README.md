@@ -57,6 +57,8 @@ Readings are published to `broker.hivemq.com` on these topics:
 
 ## Dashboard preview
 
+![Eco-Ergo-Mate dashboard (sample data)](screenshot.png)
+
 `eco_ergo_mate.html` is a standalone copy of the dashboard. Open it in a browser to see the layout. It shows no live data without the board.
 
 ## Note
